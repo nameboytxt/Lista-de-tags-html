@@ -3,7 +3,7 @@
  Define o início e o fim do documento HTML.
 
 ---
-a
+
 ### head:
 
 Contém informações sobre o documento, como título, metadados e links para folhas de estilo.
@@ -119,3 +119,13 @@ Cria uma lista ordenada, onde os itens são numerados.
  Define o rodapé da página, que geralmente contém informações como direitos autorais, links para outras seções do site, etc.
 
  ---
+
+### strong:
+
+ Define texto com importância forte, geralmente renderizado em negrito.
+
+---
+
+ ##### EM BREVE NOVAS TAGS
+
+ ##### EM BREVE UM DE CSS
